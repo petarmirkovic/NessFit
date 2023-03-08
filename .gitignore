@@ -1,0 +1,7 @@
+API/bin
+obj
+*.db
+*.sln
+*.json
+*.csproj
+API/Data/Migrations
